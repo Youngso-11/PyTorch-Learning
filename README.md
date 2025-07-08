@@ -1,2 +1,2 @@
 # PyTorch-Learning
-My PyTorch study record
+This repository documents my journey learning PyTorch.
